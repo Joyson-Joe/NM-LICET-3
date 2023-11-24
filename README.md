@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Build and Deploy Ecommerce Website With HTML CSS JavaScript
+Ecommerce Website
 
 <h3 align="center"><b>E-commerce Website</b></h3>
 
