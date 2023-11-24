@@ -44,12 +44,3 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 </div>
 
 <br>
-<hr>
-<h5 align="center">Connect with me!</h5>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </p>
-=======
-# NM-LICET-3
->>>>>>> 0763e3bef47dc04ab4bf365eedf82616bb28d548
