@@ -7,8 +7,8 @@ const SlideCard = ({title,desc,cover}) => {
         <Row>
           <Col md={6}>
             <h1>{title}</h1>
-            <p>{desc}</p>
-            <button className='btn-primary'>Visit Collections</button>
+            <p>Save on the hottest deals of the autumn. An unprecedented offer. Save up to 10% on all brand-new items and 50% extra off your initial purchase. The NAAN MUDHALVAN MEGA SALE is not to be missed!
+</p>
           </Col>
           <Col md={6}>
             <img src={cover} alt="#" />
