@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Maltimart Ecommerce
+This e-commerce site was created especially for clothes. Customers can use this website to browse the clothing, add items to their carts, and check out.
 
 ## 📌 Live Demo
 https://1-three-lac.vercel.app/
@@ -25,4 +26,14 @@ https://1-three-lac.vercel.app/
  Margaret Shruti M T - 311120104034
  Naomi Brea E - 311120104039
  Rahat Nadeem - 311120104047
->>>>>>> fd8846fa025f969584adbaf93ae195cd4145e5c8
+
+ ## PREVIEW
+
+![Alt text](image-1.png)
+![Alt text](image.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+
+
+
+
