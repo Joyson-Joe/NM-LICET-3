@@ -2,7 +2,7 @@
 This e-commerce site was created especially for online shopping. Customers can use this website to browse the required items, add items to their carts, and check out.
 
 ## 📌 Live Demo
-https://1-three-lac.vercel.app/
+https://nm-licet-group-3-hj4b.vercel.app/
 
 ## Features
 - Beauty UI similar to ecommerce website
