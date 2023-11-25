@@ -28,10 +28,12 @@ https://nm-licet-group-3-hj4b.vercel.app/
 
  ## PREVIEW
 
-<img src="image-1.png">
-![Alt text](image.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+<html>
+ <body>
+  <img src="image-1.png">
+ </body>
+</html>
+
 
 
 
