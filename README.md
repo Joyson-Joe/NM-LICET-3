@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Maltimart Ecommerce
+
+# Multimart Ecommerce
 This e-commerce site was created especially for online shopping. Customers can use this website to browse the required items, add items to their carts, and check out.
 
 ## 📌 Live Demo
