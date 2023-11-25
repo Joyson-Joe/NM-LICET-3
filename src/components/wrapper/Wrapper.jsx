@@ -15,7 +15,6 @@ const Wrapper = () => {
                   {val.icon}
                 </div>
                 <h3>{val.title}</h3>
-                <p>{val.subtitle}</p>
               </Col>
             )
           })}
