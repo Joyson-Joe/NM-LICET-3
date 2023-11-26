@@ -27,15 +27,16 @@ https://nm-licet-group-3-hj4b.vercel.app/
  - Rahat Nadeem - 311120104047
 
  ## PREVIEW
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
 
-<html>
- <body>
-  <img src="image-1.png">
-  <img src="image.png">
-  <img src="image-2.png">
-  <img src="image-3.png">
- </body>
-</html>
+
+``
 
 
 
