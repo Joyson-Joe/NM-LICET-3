@@ -31,6 +31,9 @@ https://nm-licet-group-3-hj4b.vercel.app/
 <html>
  <body>
   <img src="image-1.png">
+  <img src="image.png">
+  <img src="image-2.png">
+  <img src="image-3.png">
  </body>
 </html>
 
